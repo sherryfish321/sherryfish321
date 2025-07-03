@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋 I am Sherry
 
-<!--
-**sherryfish321/sherryfish321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Incoming MCIT Student @ UPenn (Fall 2025)  
+💼 Former Data Analytics Consultant @ EY  
+🔍 Interested in software development, data science, and analytics  
+🛠️ Skills: Python, Power BI, BigQuery, SQL, Azure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects and Interests
+
+- 🧠 Machine Learning for Product Recommendation  
+- 📊 Forecasting Promotional Sales  
+- 🛍️ Consumer Behavior Analytics  
+
+---
+
+### 📫 Contact me
+- ✉️ sherryyhhuang@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/sherry-yh-huang)
+
+---
+
+### 🔧 Tools & Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
