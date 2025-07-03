@@ -17,7 +17,6 @@
 
 ### 📫 Contact me
 - ✉️ sherryyhhuang@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/sherry-yh-huang)
 
 ---
 
