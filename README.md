@@ -3,7 +3,7 @@
 🎓 Incoming MCIT Student @ UPenn (Fall 2025)  
 💼 Former Data Analytics Consultant @ EY  
 🔍 Interested in software development, data science, and analytics  
-🛠️ Skills: Python, Power BI, BigQuery, SQL, Azure
+🛠️ Skills: Python, SQL, R, Java, CSS, HTML, Power BI, Tableau, Google Analytics, BigQuery, AWS
 
 ---
 
