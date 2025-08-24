@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Sherry
 
-🎓 Incoming MCIT Student @ UPenn (Fall 2025)  
-💼 Former Data Analytics Consultant @ EY  
+🎓 MCIT Student @ UPenn (Fall 2025)  
+💼 Former Technology Consultant @ EY  
 🔍 Interested in software development, data science, and analytics  
 
 ---
@@ -10,7 +10,8 @@
 
 - 🧠 Machine Learning for Product Recommendation  
 - 📊 Forecasting Promotional Sales  
-- 🛍️ Consumer Behavior Analytics  
+- 🛍️ Consumer Behavior Analytics
+- 🛳️ Titanic Survival Prediction
 
 ---
 
