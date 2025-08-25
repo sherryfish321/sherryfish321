@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sherry
 
-🎓 MCIT Student @ UPenn (Fall 2025)  
+🎓 MCIT Student @ UPenn (2025 - 2027)  
 💼 Former Technology Consultant @ EY  
 🔍 Interested in software development, data science, and analytics  
 
