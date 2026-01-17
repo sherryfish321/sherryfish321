@@ -11,12 +11,12 @@
 - 🧠 Machine Learning for Product Recommendation  
 - 📊 Forecasting Promotional Sales  
 - 🛍️ Consumer Behavior Analytics
-- 🛳️ Titanic Survival Prediction
+- 🧬 Genomic NLP Curation
 
 ---
 
 ### 📫 Contact me
-- ✉️ sherry03210321@gmail.com
+- ✉️ sherryyhhuang@gmail.com
 
 ---
 
